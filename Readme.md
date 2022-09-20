@@ -12,7 +12,7 @@ ACCESS GRANTED
 
 ## **Limitations**  
 1 if  
-1 else  
+1 else
 
 ## **Hints**  
 Be sure to write your return statements exactly as given in the examples. Capitalization and spelling matters.
